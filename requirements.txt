@@ -7,7 +7,6 @@ langchain-openai==0.0.5
 langchain==0.1.10
 langchain-community==0.0.29
 docx2txt==0.8
-python-dotenv==1.0.1
 chromadb==0.4.22
 torch==1.11.0
 pytest==8.0.0
