@@ -7,7 +7,7 @@ langchain-community==0.0.29
 docx2txt==0.8
 python-dotenv==1.0.1
 chromadb==0.4.22
-torch = "^1.11.0"
+torch==1.11.0
 pytest==8.0.0
 requests==2.31.0
 streamlit==1.36.0
