@@ -172,7 +172,7 @@ def main():
                 with open(personal_writeup_path, "wb") as f:
                     f.write(uploaded_personal_writeup.getbuffer())
 
-                # JobFusionCrew(resume_path, personal_writeup_path, jd_url_input).run()
+                JobFusionCrew(resume_path, personal_writeup_path, jd_url_input).run()
                 logger.debug('Agentic Workflow finished')
             else:
                 st.error("Please upload both resume and personal writeup.")
