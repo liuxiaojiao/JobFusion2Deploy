@@ -1,3 +1,5 @@
+streamlit==1.36.0
+python-dotenv==1.0.0
 crewai==0.28.8
 crewai_tools==0.1.6
 openai==1.13.3
@@ -16,5 +18,4 @@ rank_bm25==0.2.2
 openpyxl==3.1.5
 docx2txt==0.8
 pydantic==2.6.1
-streamlit==1.36.0
 pysqlite3-binary
