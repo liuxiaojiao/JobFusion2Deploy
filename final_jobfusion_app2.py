@@ -39,8 +39,7 @@ from jobfusion_tasks import JobFusion_Tasks
 from jobfusion2_agents import JobFusion2_Agents
 from jobfusion2_tasks import JobFusion2_Tasks
 from langchain.chat_models import ChatOpenAI
-from dotenv import load_dotenv
-from Config import configure as cfg
+# from dotenv import load_dotenv
 from mock_interview_chatbot import *
 import streamlit as st
 
